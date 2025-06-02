@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+*.log
+*.sqlite3
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+.env/
+
+# Qt
+*.ui
+*.qrc
+
+# Assets
+/assets/qrcodes/*
+!/assets/qrcodes/.gitkeep

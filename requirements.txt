@@ -1,0 +1,6 @@
+web3==6.0.0
+pycryptodome==3.18.0
+qrcode==7.4.2
+opencv-python==4.7.0.72
+Pillow==9.5.0
+python-dotenv==1.0.0
